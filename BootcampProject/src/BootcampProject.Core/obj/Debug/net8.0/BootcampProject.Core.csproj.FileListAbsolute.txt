@@ -1,0 +1,15 @@
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\bin\Debug\net8.0\BootcampProject.Core.deps.json
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\bin\Debug\net8.0\BootcampProject.Core.dll
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\bin\Debug\net8.0\BootcampProject.Core.pdb
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\bin\Debug\net8.0\BootcampProject.Entities.dll
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\bin\Debug\net8.0\BootcampProject.Entities.pdb
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\BootcampProject.Core.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\BootcampProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\BootcampProject.Core.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\BootcampProject.Core.AssemblyInfo.cs
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\BootcampProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\Bootcamp.5D9AEBBD.Up2Date
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\BootcampProject.Core.dll
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\refint\BootcampProject.Core.dll
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\BootcampProject.Core.pdb
+C:\Users\Utku\Desktop\Test\BootcampProject\src\BootcampProject.Core\obj\Debug\net8.0\ref\BootcampProject.Core.dll

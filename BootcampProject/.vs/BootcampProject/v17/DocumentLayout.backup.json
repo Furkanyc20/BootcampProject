@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6572D978-D3D9-4A40-AF4E-F2CFB1CFEBBD}|src\\BootcampProject.WebAPI\\BootcampProject.WebAPI.csproj|c:\\users\\utku\\desktop\\test\\bootcampproject\\src\\bootcampproject.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6572D978-D3D9-4A40-AF4E-F2CFB1CFEBBD}|src\\BootcampProject.WebAPI\\BootcampProject.WebAPI.csproj|solutionrelative:src\\bootcampproject.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572D978-D3D9-4A40-AF4E-F2CFB1CFEBBD}|src\\BootcampProject.WebAPI\\BootcampProject.WebAPI.csproj|c:\\users\\utku\\desktop\\test\\bootcampproject\\src\\bootcampproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6572D978-D3D9-4A40-AF4E-F2CFB1CFEBBD}|src\\BootcampProject.WebAPI\\BootcampProject.WebAPI.csproj|solutionrelative:src\\bootcampproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6572D978-D3D9-4A40-AF4E-F2CFB1CFEBBD}|src\\BootcampProject.WebAPI\\BootcampProject.WebAPI.csproj|c:\\users\\utku\\desktop\\test\\bootcampproject\\src\\bootcampproject.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6572D978-D3D9-4A40-AF4E-F2CFB1CFEBBD}|src\\BootcampProject.WebAPI\\BootcampProject.WebAPI.csproj|solutionrelative:src\\bootcampproject.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C7832-DC34-4830-9957-E1131855785E}|src\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj|c:\\users\\utku\\desktop\\test\\bootcampproject\\src\\bootcampproject.repositories\\bootcampproject.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{042C7832-DC34-4830-9957-E1131855785E}|src\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj|solutionrelative:src\\bootcampproject.repositories\\bootcampproject.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0649AC7A-2A0A-4D54-B3B2-A5C2986C2A08}|src\\BootcampProject.Business\\BootcampProject.Business.csproj|c:\\users\\utku\\desktop\\test\\bootcampproject\\src\\bootcampproject.business\\bootcampproject.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0649AC7A-2A0A-4D54-B3B2-A5C2986C2A08}|src\\BootcampProject.Business\\BootcampProject.Business.csproj|solutionrelative:src\\bootcampproject.business\\bootcampproject.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFD6AFD-A8EE-451A-9593-5580B59F5BA5}|src\\BootcampProject.Core\\BootcampProject.Core.csproj|c:\\users\\utku\\desktop\\test\\bootcampproject\\src\\bootcampproject.core\\bootcampproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CFD6AFD-A8EE-451A-9593-5580B59F5BA5}|src\\BootcampProject.Core\\BootcampProject.Core.csproj|solutionrelative:src\\bootcampproject.core\\bootcampproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042C7832-DC34-4830-9957-E1131855785E}|src\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj|c:\\users\\utku\\desktop\\test\\bootcampproject\\src\\bootcampproject.repositories\\seeddata\\seeddataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042C7832-DC34-4830-9957-E1131855785E}|src\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj|solutionrelative:src\\bootcampproject.repositories\\seeddata\\seeddataextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\BootcampProject.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\BootcampProject.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T20:14:21.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\BootcampProject.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\BootcampProject.WebAPI\\Program.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAApwOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:12:48.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\BootcampProject.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.WebAPI\\appsettings.json",
+              "RelativeToolTip": "src\\BootcampProject.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T20:12:19.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BootcampProject.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.Business\\BootcampProject.Business.csproj",
+              "RelativeDocumentMoniker": "src\\BootcampProject.Business\\BootcampProject.Business.csproj",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.Business\\BootcampProject.Business.csproj",
+              "RelativeToolTip": "src\\BootcampProject.Business\\BootcampProject.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T18:43:55.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BootcampProject.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj",
+              "RelativeDocumentMoniker": "src\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj",
+              "RelativeToolTip": "src\\BootcampProject.Repositories\\BootcampProject.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T18:40:13.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedDataExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.Repositories\\SeedData\\SeedDataExtensions.cs",
+              "RelativeDocumentMoniker": "src\\BootcampProject.Repositories\\SeedData\\SeedDataExtensions.cs",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.Repositories\\SeedData\\SeedDataExtensions.cs",
+              "RelativeToolTip": "src\\BootcampProject.Repositories\\SeedData\\SeedDataExtensions.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:15:05.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BootcampProject.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.Core\\BootcampProject.Core.csproj",
+              "RelativeDocumentMoniker": "src\\BootcampProject.Core\\BootcampProject.Core.csproj",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\Test\\BootcampProject\\src\\BootcampProject.Core\\BootcampProject.Core.csproj",
+              "RelativeToolTip": "src\\BootcampProject.Core\\BootcampProject.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T09:52:33.793Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 621,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
